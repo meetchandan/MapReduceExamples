@@ -5,4 +5,5 @@ src/main/java/Meta-INF/*
 *.iws
 *.ipr
 input/
+output/
 
